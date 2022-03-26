@@ -19,7 +19,7 @@
               ( pip install requests
               ( pip install futures
               ( pip install bs4
-              ( git clone https://github.com/Jeeck-XN/MBF
+              ( git clone https://github.com/sahrilekiram/MBF
               ( cd MBF
               ( git pull
               ( python MBF.py
