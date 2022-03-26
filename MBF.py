@@ -82,8 +82,8 @@ def banner():
  {B}|   {war_dom} /_/       /_____/  \____/   /_/ |_|  /_/  |_|\____/   /_/ |_|     {B}|
 {P}[•]{B}--------------------------------------------------------------------{P}[•]
 {B} |
-{P}[•]{B}-----> {P}AUTHOR : {B}MR.JEECK X NANO {P}MR.RISKY
-{P}[•]{B}-----> {P}GITHUB : {B}https://github.com/Jeeck-XN
+{P}[•]{B}-----> {P}AUTHOR : {B}SYAHRIL.EKYRAM
+{P}[•]{B}-----> {P}GITHUB : {B}https://github.com/sahrilekiram
 {P}[•]{B}-----> {p}FACBOOK : {B}100032577396395
 {B} |""")
 
